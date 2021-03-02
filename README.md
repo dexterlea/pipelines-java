@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/770395618/azure%20devops%20test/_apis/build/status/dexterlea.pipelines-java?branchName=master)](https://dev.azure.com/770395618/azure%20devops%20test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
